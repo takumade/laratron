@@ -23,7 +23,7 @@ function createWindow() {
     base: `${__dirname}/www/public`,
     keepalive: false,
     open: false,
-    bin: `${__dirname}/php/php.exe`,
+    bin: `${__dirname}/php/bin/php`,
     router: __dirname + '/www/server.php'
   });
 
