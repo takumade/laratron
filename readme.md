@@ -4,7 +4,9 @@ Making Laravel desktop application using Electron Js(For MAC OS)
 <p>
     <a href="https://creativecommons.org/licenses/by/4.0/"><img src="https://badgen.net/badge/licence/CC BY 4.0/23BCCB" /></a>
     <a href="https://twitter.com/laravelarticle"><img src="https://badgen.net/badge/twitter/@deepstate44/1DA1F2?icon&label" /></a>
-    [![Takunda Madechangu's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/takunda)
+    <a href="https://dev.to/takunda">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Takunda Madechangu's DEV Profile" height="30" width="30">
+</a>
 </p>
 
 ### Included
