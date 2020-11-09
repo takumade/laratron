@@ -1,4 +1,4 @@
-# Laravel-Electron-For-MAC-OS
+# Laratron for MAC OS
 Making Laravel desktop application using Electron Js(For MAC OS)
 
 <p>
@@ -17,11 +17,11 @@ Making Laravel desktop application using Electron Js(For MAC OS)
 
 1. Clone it 
 
-```git clone https://github.com/blackgeneration/Laravel-Electron-For-MAC-OS.git```
+```git clone https://github.com/blackgeneration/laratron.git```
 
 2. Navigate to the directory
 
-```cd Laravel-Electron-For-MAC-OS```
+```cd laratron```
 
 3. Install dependencies
 
